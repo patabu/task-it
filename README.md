@@ -159,9 +159,9 @@ docs/adr/
 
 ### Phase 1 — Project Bootstrap
 
-* [ ] Initialize the backend project
-* [ ] Configure the build system
-* [ ] Define the initial project structure
+* [X] Initialize the backend project
+* [X] Configure the build system
+* [X] Define the initial project structure
 * [ ] Configure development environments
 * [ ] Prepare the basic application configuration
 * [ ] Verify that the project can be built and executed
