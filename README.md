@@ -162,11 +162,11 @@ docs/adr/
 * [X] Initialize the backend project
 * [X] Configure the build system
 * [X] Define the initial project structure
-* [ ] Configure development environments
-* [ ] Prepare the basic application configuration
-* [ ] Verify that the project can be built and executed
-* [ ] Configure `.gitignore`
-* [ ] Define commit conventions
+* [X] Configure development environments
+* [X] Prepare the basic application configuration
+* [X] Verify that the project can be built and executed
+* [X] Configure `.gitignore`
+* [X] Define commit conventions
 
 ### Phase 2 — Domain Modeling
 
